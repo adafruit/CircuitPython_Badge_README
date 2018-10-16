@@ -1,7 +1,7 @@
 Welcome to CircuitPython!
 #############################
 
-Hello Hackaday Superconference - we wanted to have a fun ~electronic~ swag-bag item, that
+Hello Hackaday Superconference - we wanted to have a fun ~electronic~ item, that
 does more than just a sticker! What you have in your hand is a Hallowing M0 Express.
 
 This hardware comes pre-loaded with CircuitPython! CircuitPython is Adafruit's

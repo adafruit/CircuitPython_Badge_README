@@ -1,7 +1,7 @@
 Welcome to CircuitPython!
 #############################
 
-Hello {EVENT NAME} - we wanted to have a fun ~electronic~ swag-bag item, that
+Hello {EVENT NAME} - we wanted to have a fun ~electronic~ item, that
 does more than just a sticker! What you have in your hand is a special 
 edition {BOARD DETAILS}.
 
