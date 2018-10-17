@@ -4,7 +4,7 @@ import pulseio
 
 # Create the slideshow object that plays through once alphabetically.
 slideshow = SlideShow(board.DISPLAY, pulseio.PWMOut(board.TFT_BACKLIGHT), folder="/",
-                      loop=False, order=PlayBackOrder.ALPHABETICAL, dwell=1)
+                      loop=True, order=PlayBackOrder.ALPHABETICAL, dwell=1.5)
 
 while slideshow.update():
     pass
