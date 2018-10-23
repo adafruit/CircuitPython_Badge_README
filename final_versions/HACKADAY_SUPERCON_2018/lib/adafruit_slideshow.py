@@ -173,8 +173,7 @@ class SlideShow:
 
         # Load the image names before setting order so they can be reordered.
         self._img_start = None
-        self._file_list = list(filter(lambda x: x.endswith("bmp"), os.listdir(folder)))
-
+        self._file_list = [folder+"/"+f for f in os.listdir(folder) if (f.endswith(".bmp") and not f.startswith("._"))]
         self._order = None
         self.order = order
         """The order in which the images display. You can choose random (``RANDOM``) or
