@@ -58,6 +58,12 @@ https://learn.adafruit.com/category/circuitpython
 for all the tutorials we have!
 
 #############################
+Getting Start with Circuit Playground Express book excerpt!
+
+Also included is a special preview edition of "Getting Started with Adafruit Circuit Playground Express: The Multipurpose Learning and Development Board with Built-In LEDs, Sensors, and Accelerometer" by Mike Barela. Make: Magazine gave PyCon, Adafruit & Digi-Key special permission to include the CircuitPython chapter of the book for all attendees to learn from and enjoy! Because CircuitPython allows devices to be USB drives, the PDF is included right on the Circuit Playground Express! The complete book is available on Adafruit and where programming books are sold:
+https://www.adafruit.com/product/3944
+
+#############################
 CircuitPython Quick Start:
 
 Changing the code is as easy as editing code.py in your favorite text editor. 
