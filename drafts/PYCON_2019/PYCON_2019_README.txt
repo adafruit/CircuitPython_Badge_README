@@ -64,6 +64,12 @@ Also included is a special preview edition of "Getting Started with Adafruit Cir
 https://www.adafruit.com/product/3944
 
 #############################
+Discount Code!
+
+To help start you on your electronic journey, each PyCon attendee is receiving a Digi-Key + Adafruit Circuit Playground Express! You may decide that you want to explore more of the wonderful world of electronics and Python on hardware, so we're also providing a discount code to the Adafruit store. Use the code PYCONFRUIT and receive 10% off in stock items in the Adafruit store!
+https://www.adafruit.com
+
+#############################
 CircuitPython Quick Start:
 
 Changing the code is as easy as editing code.py in your favorite text editor. 
