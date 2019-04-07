@@ -60,13 +60,23 @@ for all the tutorials we have!
 #############################
 Getting Start with Circuit Playground Express book excerpt!
 
-Also included is a special preview edition of "Getting Started with Adafruit Circuit Playground Express: The Multipurpose Learning and Development Board with Built-In LEDs, Sensors, and Accelerometer" by Mike Barela. Make: Magazine gave PyCon, Adafruit & Digi-Key special permission to include the CircuitPython chapter of the book for all attendees to learn from and enjoy! Because CircuitPython allows devices to be USB drives, the PDF is included right on the Circuit Playground Express! The complete book is available on Adafruit and where programming books are sold:
+Also included is a special preview edition of "Getting Started with Adafruit Circuit
+Playground Express: The Multipurpose Learning and Development Board with Built-In LEDs,
+Sensors, and Accelerometer" by Mike Barela. Make: Magazine gave PyCon, Adafruit &
+Digi-Key special permission to include the CircuitPython chapter of the book for all
+attendees to learn from and enjoy! Because CircuitPython allows devices to be USB
+drives, the PDF is included right on the Circuit Playground Express! The complete book
+is available on Adafruit and where programming books are sold:
 https://www.adafruit.com/product/3944
 
 #############################
 Discount Code!
 
-To help start you on your electronic journey, each PyCon attendee is receiving a Digi-Key + Adafruit Circuit Playground Express! You may decide that you want to explore more of the wonderful world of electronics and Python on hardware, so we're also providing a discount code to the Adafruit store. Use the code PYCONFRUIT and receive 10% off in stock items in the Adafruit store!
+To help start you on your electronic journey, each PyCon attendee is receiving a Digi-Key
++ Adafruit Circuit Playground Express! You may decide that you want to explore more of
+the wonderful world of electronics and Python on hardware, so we're also providing a
+discount code to the Adafruit store. Use the code PYCONFRUIT and receive 10% off in stock
+items in the Adafruit store!
 https://www.adafruit.com
 
 #############################
