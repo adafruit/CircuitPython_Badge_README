@@ -1,5 +1,5 @@
 import board
-import pulseio
+import pwmio
 import displayio
 import adafruit_miniqr
 
@@ -8,7 +8,7 @@ QR_DATA = b'https://www.hackaday.io/'
 DISPLAY_W = 128
 DISPLAY_H = 128
 
-backlight = pulseio.PWMOut(board.TFT_BACKLIGHT)
+backlight = pwmio.PWMOut(board.TFT_BACKLIGHT)
 backlight.duty_cycle = 0
 
 def draw_QR(matrix):
